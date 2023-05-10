@@ -1,3 +1,5 @@
 sThis is a shell script
 
-new line added
+new line adde
+d
+new
