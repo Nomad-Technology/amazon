@@ -1,3 +1,4 @@
+Added new line from stage
 sThis is a shell script
 
 new line adde
