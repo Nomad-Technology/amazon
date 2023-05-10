@@ -2,4 +2,6 @@ sThis is a shell script
 
 new line adde
 d
-new
+neiw
+
+from dev branch
